@@ -54,16 +54,12 @@ export default {
     :class="{ 'element-template': isSertForElement }"
   >
     <a
-      v-for="element in sertificates"
-      :href="element.DETAIL_PICTURE?.SRC"
-      :title="element.PREVIEW_TEXT || element.NAME"
-      :key="element.ID"
+      v-for="certificate in sertificates"
+      :href="certificate.DETAIL_PICTURE?.SRC"
+      :title="certificate.PREVIEW_TEXT || certificate.NAME"
+      :key="certificate.ID"
     >
-      <img
-        :src="element.DETAIL_PICTURE?.SRC"
-        :alt="element.NAME"
-        style="max-width: 300px"
-      />
+      <img :src="certificate.DETAIL_PICTURE?.SRC" :alt="certificate.NAME" />
     </a>
   </vue-chocolat>
 </template>
@@ -89,5 +85,6 @@ export default {
 
 .vue-chocolat > a > img {
   padding: 7px;
+  max-width: 300px;
 }
 </style>
