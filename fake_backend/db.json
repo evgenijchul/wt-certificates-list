@@ -1,0 +1,86 @@
+{
+  "certificates": {
+    "ELEMENTS": [
+      {
+        "ID": "55601",
+        "NAME": "AQQU",
+        "DETAIL_PICTURE": {
+          "SRC": "http://localhost:3004/fake_certificate/1.jpeg"
+        },
+        "PREVIEW_TEXT": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore, iste! Quam ipsa accusamus aspernatur sit, perferendis."
+      },
+      {
+        "ID": "55602",
+        "NAME": "ELTENA",
+        "DETAIL_PICTURE": {
+          "SRC": "http://localhost:3004/fake_certificate/2.jpeg"
+        },
+        "PREVIEW_TEXT": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga?"
+      },
+      {
+        "ID": "55603",
+        "NAME": "Fiamm",
+        "DETAIL_PICTURE": {
+          "SRC": "http://localhost:3004/fake_certificate/3.jpeg"
+        },
+        "PREVIEW_TEXT": "Lorem ipsum dolor sit amet consectetur adipisicing."
+      },
+      {
+        "ID": "55600",
+        "NAME": "Hiden",
+        "DETAIL_PICTURE": {
+          "SRC": "http://localhost:3004/fake_certificate/4.jpeg"
+        },
+        "PREVIEW_TEXT": "Lorem ipsum dolor sit."
+      },
+      {
+        "ID": "55604",
+        "NAME": "LANCHES",
+        "DETAIL_PICTURE": {
+          "SRC": "http://localhost:3004/fake_certificate/5.png"
+        },
+        "PREVIEW_TEXT": "Lorem ipsum dolor sit amet consectetur."
+      },
+      {
+        "ID": "55605",
+        "NAME": "MNB",
+        "DETAIL_PICTURE": {
+          "SRC": "http://localhost:3004/fake_certificate/6.jpeg"
+        },
+        "PREVIEW_TEXT": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+      },
+      {
+        "ID": "55606",
+        "NAME": "N-Power",
+        "DETAIL_PICTURE": {
+          "SRC": "http://localhost:3004/fake_certificate/7.jpeg"
+        },
+        "PREVIEW_TEXT": "Lorem, ipsum dolor."
+      },
+      {
+        "ID": "55523",
+        "NAME": "Ortea",
+        "DETAIL_PICTURE": {
+          "SRC": "http://localhost:3004/fake_certificate/8.jpeg"
+        },
+        "PREVIEW_TEXT": "Lorem, ipsum dolor."
+      },
+      {
+        "ID": "55608",
+        "NAME": "Volter",
+        "DETAIL_PICTURE": {
+          "SRC": "http://localhost:3004/fake_certificate/9.jpeg"
+        },
+        "PREVIEW_TEXT": "Lorem, ipsum dolor."
+      },
+      {
+        "ID": "55610",
+        "NAME": "Yellow",
+        "DETAIL_PICTURE": {
+          "SRC": "http://localhost:3004/fake_certificate/10.jpeg"
+        },
+        "PREVIEW_TEXT": "Lorem, ipsum."
+      }
+    ]
+  }
+}

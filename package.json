@@ -2,12 +2,14 @@
   "name": "certificates-list",
   "version": "0.0.1",
   "scripts": {
+    "start-fake-backend": "json-server ./fake_backend/db.json --static ./fake_backend  --port 3004",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview --port 4173",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "json-server": "^0.17.0",
     "vue": "^3.2.37",
     "vue-chocolat": "^1.1.8"
   },
