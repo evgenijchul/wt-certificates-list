@@ -1,3 +1,5 @@
+Example: https://5000wt.ru/infobuyers/certificates/
+
 ## Project Setup
 
 ```sh
